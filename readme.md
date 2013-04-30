@@ -1,3 +1,6 @@
+# Forking Explanation
+This modification is based off of the original, but I didn't have the opportunity to fork it and upload my changes until now.  My changes added support for Chrome and the ability to print URLs that contained parameters as I ran into issues with the original code.
+
 #jQuery printPage plugin
 
 Print any page within your website without quitting your page.
